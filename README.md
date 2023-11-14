@@ -2,9 +2,9 @@
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 > 
 ## MI ENTREGA
-* Enlace al classroom tarea microbit(https://classroom.github.com/classrooms/149710216-ull-mfp-aet-2324-alu0100312201/assignments/microbit)
-* Enlace al clasroom general(https://classroom.github.com/classrooms/149710216-ull-mfp-aet-2324-alu0100312201)
-* Enlace a la organizacion(https://github.com/Ull-mfp-2324-alu0100312201)
+* Enlace al classroom tarea microbit (https://classroom.github.com/classrooms/149710216-ull-mfp-aet-2324-alu0100312201/assignments/microbit)
+* Enlace al clasroom general (https://classroom.github.com/classrooms/149710216-ull-mfp-aet-2324-alu0100312201)
+* Enlace a la organizacion (https://github.com/Ull-mfp-2324-alu0100312201)
 
 
 ## Edit this project
