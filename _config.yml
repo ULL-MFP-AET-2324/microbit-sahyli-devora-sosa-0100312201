@@ -3,6 +3,11 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-Tactile
+asignatura: Enseñanza de la tecnología
+lista_de_la_compra:
+  - papas
+  - aguacate
+  - pan
 include:
   - assets
   - README.md
